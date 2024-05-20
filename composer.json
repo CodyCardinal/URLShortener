@@ -1,0 +1,13 @@
+{
+    "name": "cody/url-shortener",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Cody Cardinal",
+            "email": "cardinalc@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
